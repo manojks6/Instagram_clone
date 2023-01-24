@@ -1,5 +1,5 @@
 .post{
-    width: 700px;
+    width: 730px;
     padding-bottom:30px;
     border-top: 1px solid lightgray;
     border-bottom: 1px solid lightgray;
@@ -24,7 +24,6 @@
       margin-top: 10px;
   }
 
-  
   .post_text{
       font-weight: normal;
       padding: 2px; ;
