@@ -1,0 +1,48 @@
+*{
+  margin:0;
+}
+.App{
+  display:grid;
+  background-color:#EFEFEF; 
+  overflow: hidden;
+ 
+}
+.app_header{
+    background-color: white;
+    border: 1px solid lightgray;
+    padding: 10px 15px 11px 20px;
+    object-fit: contain;
+    margin:  0px 0px 2px 0px;
+    display: flex;
+    justify-content: space-between;
+  }
+  button{
+    cursor: pointer;
+    border: 0px solid blue;
+    margin-right: 25px;
+    background-color: #DBDBDB;
+    border-radius: 5px;
+    color: black;
+    width: 100px;
+    height: 30px;
+  }
+  button:hover{
+    background-color: #1877F2;
+    color: #EFEFEF;
+  }
+  .insta{
+    width: 140px;
+    height: 40px;
+  }
+  .app_headerButton{
+    align-items: flex-end;
+  }
+  .main_body{
+    display: flex;
+  }
+  .chat_header{
+    display: flex;
+    align-items: center;
+    border-radius: 22px;
+    display:flex;
+  }

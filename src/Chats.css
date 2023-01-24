@@ -1,0 +1,22 @@
+.chats{
+    align-items: center;
+    width: 615px;
+    padding-bottom:10px;
+    background-color: white;
+    margin: 0px 0px 2px 10px;
+    padding-left: 10px;
+  }
+
+.chats_header{
+    display: flex;
+    align-items:center;
+    padding-top: 10px;
+    margin: 1px;
+    padding-left: 10px;
+}
+.chats_avatar{
+    margin-right: 15px;
+    margin-left: 8px;
+    border: 1px solid gray;
+}
+
