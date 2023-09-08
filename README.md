@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+#Preview
+#![insta](https://github.com/manojks6/Instagram_clone/assets/118463406/aa598de2-8267-41e3-be95-aaf87ff7ed4b)
+ Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
