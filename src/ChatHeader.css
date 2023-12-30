@@ -12,4 +12,9 @@
     padding: 5px;
     padding-right: 60px;
     cursor: pointer;
+    color:#55504E;
+    
+}
+.icons:hover{
+    color: black;
 }

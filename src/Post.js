@@ -15,15 +15,11 @@ function Post(props) {
             />
             <h3>{props.userName}</h3>
         </div>
-      
         <img className='post_img' src={props.imageUrl} alt='im' /> {/*img*/}
         <div className='like_sheare_comment' style={{color: 'red'}}><AiFillHeart size={30} /></div>
         <div className='like_sheare_comment' style={{color: 'black'}}><BsMessenger size={26} /></div>
         <div className='like_sheare_comment' style={{color: 'black'}}><FaShare size={26} /></div>
-
-
         <h4 className='post_text'><strong>{props.userName} </strong><p style={{fontFamily: "Monaco"}}>{props.caption}</p></h4>   {/*username + caption*/}
-        
     </div>
   )
 }
